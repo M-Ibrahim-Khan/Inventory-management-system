@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450887900693",
+    "project_id": "store-management-system-3d30b",
+    "storage_bucket": "store-management-system-3d30b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450887900693:android:86616b2a3f6fc2e4e9f81c",
+        "android_client_info": {
+          "package_name": "com.example.shopmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450887900693-27ka9igqfhkma44rovr2f8b2mn2mmb5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzRAYl_HJMyL7YbzYTKPaaU724_g3kEFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450887900693-27ka9igqfhkma44rovr2f8b2mn2mmb5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
